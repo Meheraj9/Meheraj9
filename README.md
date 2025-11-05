@@ -1,4 +1,4 @@
-# Portfolio - Wajid Daud Tamboli
+# Portfolio - MEHERAJ ISLAM MEZOR
 
 <div id="header" align="center">
   <div id="badges">
