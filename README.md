@@ -8,10 +8,10 @@
     <a href="mailto:meheraj9926@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://wa.me/9667033839">
+    <a href="https://wa.me/+8801602560867">
       <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
-    <a href="https://wajiddaudtamboli.github.io/Portfolio-Wajid_Daud_Tamboli/" target="_blank">
+    <a href="https://meheraj-islam.mezorai.com/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
@@ -356,9 +356,9 @@
 
 [![Email](https://img.shields.io/badge/📧%20Direct%20Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meheraj9926@gmail.com?subject=Job%20Opportunity&body=Hi%20Wajid,%0A%0AI%20found%20your%20profile%20impressive%20and%20would%20like%20to%20discuss%20a%20role%20at%20our%20company.%0A%0ARole:%0ACompany:%0A%0ALooking%20forward%20to%20connecting!)
 
-[![WhatsApp](https://img.shields.io/badge/📱%20Quick%20Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9667033839?text=Hi%20Wajid!%20I'm%20a%20recruiter%20interested%20in%20discussing%20job%20opportunities%20with%20you.)
+[![WhatsApp](https://img.shields.io/badge/📱%20Quick%20Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801602560867?text=Hi%20Wajid!%20I'm%20a%20recruiter%20interested%20in%20discussing%20job%20opportunities%20with%20you.)
 
-[![Portfolio](https://img.shields.io/badge/🎨%20View%20Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wajiddaudtamboli.github.io/Portfolio-Wajid_Daud_Tamboli/)
+[![Portfolio](https://img.shields.io/badge/🎨%20View%20Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meheraj-islam.mezorai.com/)
 
 </div>
 
