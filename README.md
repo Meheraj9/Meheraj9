@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/wajid-daud-tamboli-3217b031a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:wajiddaudtamboli123@gmail.com">
+    <a href="mailto:meheraj9926@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://wa.me/9667033839">
@@ -23,7 +23,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=💻+Full+Stack+Developer+%7C+Frontend+Specialist;🎨+UI%2FUX+Designer+%7C+Technical+Writer;📊+Data+Analyst+%7C+Software+Engineer;🛡️+System+Administrator+%7C+QA+Tester;🌐+Network+Admin+%7C+Database+Expert;🚀+Multi-Domain+Technology+Professional" alt="Typing SVG" />
 </div>
 
-# Hi there 👋, I'm **Wajid Daud Tamboli**
+# Hi there 👋, I'm **MEHERAJ ISLAM MEZOR**
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -354,7 +354,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/📋%20Schedule%20Interview-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-daud-tamboli-3217b031a/)
 
-[![Email](https://img.shields.io/badge/📧%20Direct%20Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajiddaudtamboli123@gmail.com?subject=Job%20Opportunity&body=Hi%20Wajid,%0A%0AI%20found%20your%20profile%20impressive%20and%20would%20like%20to%20discuss%20a%20role%20at%20our%20company.%0A%0ARole:%0ACompany:%0A%0ALooking%20forward%20to%20connecting!)
+[![Email](https://img.shields.io/badge/📧%20Direct%20Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meheraj9926@gmail.com?subject=Job%20Opportunity&body=Hi%20Wajid,%0A%0AI%20found%20your%20profile%20impressive%20and%20would%20like%20to%20discuss%20a%20role%20at%20our%20company.%0A%0ARole:%0ACompany:%0A%0ALooking%20forward%20to%20connecting!)
 
 [![WhatsApp](https://img.shields.io/badge/📱%20Quick%20Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9667033839?text=Hi%20Wajid!%20I'm%20a%20recruiter%20interested%20in%20discussing%20job%20opportunities%20with%20you.)
 
